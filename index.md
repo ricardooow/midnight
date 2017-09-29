@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
     §2 Motion in a straight line:
     $$\vec{v}=\lim_{\Delta t\to\infty} \frac{\Delta{x}}{\Delta{t}}=\frac{dx}{dt}$$
     $$\vec{a}=\lim_{\Delta t\to\infty} \frac{\Delta{v}}{\Delta{t}}=\frac{dv}{dt}$$
