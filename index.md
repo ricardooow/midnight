@@ -2,7 +2,7 @@
 layout: default
 ---
     §2 Motion in a straight line:
-    $$\vec{v}=\lim_{\Delta t\to\infty} \frac{\Delta{x}}{\Delta{t}}=\frac{dx}{dt}$$
+    $\vec{v}=\lim_{\Delta t\to\infty} \frac{\Delta{x}}{\Delta{t}}=\frac{dx}{dt}$
     $$\vec{a}=\lim_{\Delta t\to\infty} \frac{\Delta{v}}{\Delta{t}}=\frac{dv}{dt}$$
     
     
